@@ -1,0 +1,36 @@
+{
+    "mahasiswa" : [
+        {
+            "NIM" : 2141720378,
+            "nama" : "Rahmat Saefuddin Ariansyah",
+            "alamat" : "Jl. Dinoyo No.5 Surabaya",
+            "hp": "081802023249",
+            "angkatan" : 2021,
+            "status": "aktif"
+        },
+        {
+            "NIM" : 180823453,
+            "nama" : "Umji Maharaningrum",
+            "alamat" : "Jl. Soekarno Hatta No.9 Malang",
+            "hp": "08883116748",
+            "angkatan" : 2018,
+            "status": "lulus"
+        },
+        {
+            "NIM" : 204172097,
+            "nama" : "Rindah Mutiarawati",
+            "alamat" : "Jl. Sawojajar Malang",
+            "hp": "08883772690",
+            "angkatan" : 20,
+            "status": "aktif"
+        },
+        {
+            "NIM" : 160433494,
+            "nama" : "Dendi Farazzyh",
+            "alamat" : "Jl. Nongkajajar No.13 Pasuruan",
+            "hp": "081267348238",
+            "angkatan" : 2016,
+            "status": "lulus"
+        }
+    ]
+}
