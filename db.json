@@ -3,8 +3,8 @@
         {
             "userId" : 1,
             "id" : 1,
-            "NIM" : 2141720378,
             "nama" : "Rahmat Saefuddin Ariansyah",
+            "NIM" : 2141720378,
             "alamat" : "Jl. Dinoyo No.5 Surabaya",
             "hp": "081802023249",
             "angkatan" : 2021,
@@ -13,8 +13,8 @@
         {
             "userId" : 1,
             "id" : 2,
-            "NIM" : 180823453,
             "nama" : "Umji Maharaningrum",
+            "NIM" : 180823453,
             "alamat" : "Jl. Soekarno Hatta No.9 Malang",
             "hp": "08883116748",
             "angkatan" : 2018,
@@ -23,8 +23,8 @@
         {
             "userId" : 1,
             "id" : 3,
-            "NIM" : 204172097,
             "nama" : "Rindah Mutiarawati",
+            "NIM" : 204172097,
             "alamat" : "Jl. Sawojajar Malang",
             "hp": "08883772690",
             "angkatan" : 20,
@@ -33,8 +33,8 @@
         {
             "userId" : 1,
             "id" : 4,
-            "NIM" : 160433494,
             "nama" : "Dendi Farazzyh",
+            "NIM" : 160433494,
             "alamat" : "Jl. Nongkajajar No.13 Pasuruan",
             "hp": "081267348238",
             "angkatan" : 2016,
