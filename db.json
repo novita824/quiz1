@@ -1,6 +1,8 @@
 {
     "mahasiswa" : [
         {
+            "userId" : 1,
+            "id" : 1,
             "NIM" : 2141720378,
             "nama" : "Rahmat Saefuddin Ariansyah",
             "alamat" : "Jl. Dinoyo No.5 Surabaya",
@@ -9,6 +11,8 @@
             "status": "aktif"
         },
         {
+            "userId" : 1,
+            "id" : 2,
             "NIM" : 180823453,
             "nama" : "Umji Maharaningrum",
             "alamat" : "Jl. Soekarno Hatta No.9 Malang",
@@ -17,6 +21,8 @@
             "status": "lulus"
         },
         {
+            "userId" : 1,
+            "id" : 3,
             "NIM" : 204172097,
             "nama" : "Rindah Mutiarawati",
             "alamat" : "Jl. Sawojajar Malang",
@@ -25,6 +31,8 @@
             "status": "aktif"
         },
         {
+            "userId" : 1,
+            "id" : 4,
             "NIM" : 160433494,
             "nama" : "Dendi Farazzyh",
             "alamat" : "Jl. Nongkajajar No.13 Pasuruan",
